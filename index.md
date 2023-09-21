@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: home
 title: "HeeChan Kang"
+permalink: /
 ---
-
-## You're ready to go!
-
-Start developing your Jekyll website.
