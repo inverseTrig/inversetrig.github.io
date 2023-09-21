@@ -1,9 +1,14 @@
 url: "https://inversetrig.github.io"
 baseurl: "/inversetrig.github.io"
-title: ""
+title: "HeeChan Kang: Backend Developer"
 
 plugins:
   - jekyll-postcss
 
 postcss:
   cache: false
+
+profile-image: profile_image.jpeg
+author: HeeChan Kang
+bio: Backend Developer at Spoqa
+introduction: I build and maintain stable backend services with TDD approach.
