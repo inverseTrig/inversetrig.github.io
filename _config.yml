@@ -12,3 +12,21 @@ profile-image: profile_image.jpeg
 author: HeeChan Kang
 bio: Backend Developer at Spoqa
 introduction: I build and maintain stable backend services with TDD approach.
+about:
+  paragraph1: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  paragraph2: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+  paragraph3: Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+experiences:
+  - period: Apr 2022 — Present
+    company: Spoqa
+    title: Backend Developer
+    overview: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+  - period: Jul 2020 — Jun 2021
+    company: Bloomsbury Partners
+    title: Backend Developer
+    overview: Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+  - period: Dec 2018 — Jul 2020
+    company: Frontiir
+    title: Operation Support Systems Engineer
+    overview: Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
